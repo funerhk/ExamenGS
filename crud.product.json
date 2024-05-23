@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "664c2101899f31462e922a4b"
+  },
+  "name": "calcetines nike",
+  "description": "calcetines cortos blancos con negro",
+  "price": 50,
+  "_class": "com.cotizador.entity.model.Product"
+},
+{
+  "_id": {
+    "$oid": "664d8b09c56402253d3fe289"
+  },
+  "name": "gorro cafe",
+  "description": "goro color cafe",
+  "price": 60,
+  "_class": "com.cotizador.entity.model.Product"
+},
+{
+  "_id": {
+    "$oid": "664d8baac56402253d3fe28a"
+  },
+  "name": "sobrero rojo",
+  "description": "gorra roja",
+  "price": 890,
+  "_class": "com.cotizador.entity.model.Product"
+},
+{
+  "_id": {
+    "$oid": "664d8bddc56402253d3fe28b"
+  },
+  "name": "mochila nike",
+  "description": "mochila negra simple",
+  "price": 90909,
+  "_class": "com.cotizador.entity.model.Product"
+},
+{
+  "_id": {
+    "$oid": "664d8c51c56402253d3fe28c"
+  },
+  "name": "playera nike",
+  "description": "playera negra con franjas",
+  "price": 700,
+  "_class": "com.cotizador.entity.model.Product"
+}]

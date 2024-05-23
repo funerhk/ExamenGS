@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "664c3e4ffa7107679fef6fc1"
+  },
+  "deadline": "12",
+  "normalInterest": "1.0366",
+  "punctualInterest": "0.8963",
+  "_class": "com.cotizador.entity.model.DeadLine"
+},
+{
+  "_id": {
+    "$oid": "664d3b4ae711c5636299b444"
+  },
+  "deadline": "9",
+  "normalInterest": "0.77745",
+  "punctualInterest": "0.672225",
+  "_class": "com.cotizador.entity.model.DeadLine"
+},
+{
+  "_id": {
+    "$oid": "664d3b69e711c5636299b445"
+  },
+  "deadline": "6",
+  "normalInterest": "0.5183",
+  "punctualInterest": "0.4482",
+  "_class": "com.cotizador.entity.model.DeadLine"
+},
+{
+  "_id": {
+    "$oid": "664d3b80e711c5636299b446"
+  },
+  "deadline": "3",
+  "normalInterest": "0.25915",
+  "punctualInterest": "0.224075",
+  "_class": "com.cotizador.entity.model.DeadLine"
+}]
